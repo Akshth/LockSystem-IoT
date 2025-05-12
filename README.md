@@ -1,5 +1,5 @@
-Components used:
-Components Used: Arduino Uno, ESP32, Joystick Module, Touch Sensor, Servo Motor, 
+Components Used: 
+Arduino Uno, ESP32, Joystick Module, Touch Sensor, Servo Motor, 
 LCD Display (I2C, 16x2), Twilio API, Jumper Wires, Breadboard.
 
 
