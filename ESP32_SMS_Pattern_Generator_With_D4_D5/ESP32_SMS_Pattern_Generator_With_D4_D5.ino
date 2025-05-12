@@ -1,12 +1,12 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char* ssid = "xxx";
-const char* password = "xxx";
-String twilioSID = "xxxx";
-String twilioToken = "xxxx";
-String fromNumber = "xxxx";
-String toNumber = "xxxxx";
+const char* ssid = "xxx"; //wifi name
+const char* password = "xxx"; //wifi pass
+String twilioSID = "xxxx";  //twilio sid 
+String twilioToken = "xxxx"; //twilio token
+String fromNumber = "xxxx"; //number obtained from twilio
+String toNumber = "xxxxx"; //number where the generated pattern works
 
 String pattern[10];
 int sequenceLength = 0;
